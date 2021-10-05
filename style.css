@@ -46,6 +46,7 @@ em {
 
 .card p {
   font-size: 1.25rem;
+  line-height: 1.4;
 }
 
 .indented-heading {
