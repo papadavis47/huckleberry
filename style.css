@@ -68,3 +68,7 @@ em {
   margin-right: auto;
   padding: 36px;
 }
+
+.card p:last-child {
+  margin-bottom: 0;
+}
