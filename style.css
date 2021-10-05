@@ -26,7 +26,7 @@ em {
   background: hsl(0deg, 0%, 100%);
   border-bottom: 8px solid hsl(0deg, 0%, 40%);
   padding: 27px;
-  width: fit-content;
+  max-width: 600px;
 }
 
 .title {
@@ -63,10 +63,10 @@ em {
 }
 
 .max-width-wrapper {
-  max-width: 50%;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
-  padding: 36px;
+  padding: 32px;
 }
 
 .card p:last-child {
